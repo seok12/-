@@ -1,0 +1,17 @@
+C:\Users\uu171\source\repos\객프홈페이지\객프홈페이지\bin\Debug\객프홈페이지.exe.config
+C:\Users\uu171\source\repos\객프홈페이지\객프홈페이지\bin\Debug\객프홈페이지.exe
+C:\Users\uu171\source\repos\객프홈페이지\객프홈페이지\bin\Debug\객프홈페이지.pdb
+C:\Users\uu171\source\repos\객프홈페이지\객프홈페이지\obj\Debug\객프홈페이지.csproj.AssemblyReference.cache
+C:\Users\uu171\source\repos\객프홈페이지\객프홈페이지\obj\Debug\객프홈페이지.csproj.SuggestedBindingRedirects.cache
+C:\Users\uu171\source\repos\객프홈페이지\객프홈페이지\obj\Debug\객프홈페이지.Properties.Resources.resources
+C:\Users\uu171\source\repos\객프홈페이지\객프홈페이지\obj\Debug\객프홈페이지.csproj.GenerateResource.cache
+C:\Users\uu171\source\repos\객프홈페이지\객프홈페이지\obj\Debug\객프홈페이지.csproj.CoreCompileInputs.cache
+C:\Users\uu171\source\repos\객프홈페이지\객프홈페이지\obj\Debug\객프홈페이지.exe
+C:\Users\uu171\source\repos\객프홈페이지\객프홈페이지\obj\Debug\객프홈페이지.pdb
+C:\Users\uu171\source\repos\객프홈페이지\객프홈페이지\obj\Debug\객프홈페이지.Form1.resources
+C:\Users\uu171\source\repos\객프홈페이지\객프홈페이지\obj\Debug\객프홈페이지.ucPanel.ucScreen1.resources
+C:\Users\uu171\source\repos\객프홈페이지\객프홈페이지\obj\Debug\객프홈페이지.ucPanel.ucScreen2.resources
+C:\Users\uu171\source\repos\객프홈페이지\객프홈페이지\obj\Debug\객프홈페이지.ucPanel.ucScreen3.resources
+C:\Users\uu171\source\repos\객프홈페이지\객프홈페이지\obj\Debug\객프홈페이지.ucPanel.ucScreen4.resources
+C:\Users\uu171\source\repos\객프홈페이지\객프홈페이지\obj\Debug\객프홈페이지.ucPanel.ucScreen5.resources
+C:\Users\uu171\source\repos\객프홈페이지\객프홈페이지\obj\Debug\객프홈페이지.ucPanel.ucScreen6.resources
